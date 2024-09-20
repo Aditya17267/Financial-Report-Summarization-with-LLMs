@@ -1,0 +1,8 @@
+PyMuPDF==1.24.8
+langchain_community==0.2.10
+langchain_core==0.2.23
+langchain_openai==0.1.17
+langchain==0.2.11
+chromadb==0.5.3
+python-dotenv==0.21.0
+python-docx==1.1.2
